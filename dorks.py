@@ -160,10 +160,10 @@ _____░▒▓██
 
 """))
 
-slowprint(i + f'''
+print(i + f'''
 ''')
 
-
+slowprint(f"{Fore.YELLOW} DORK FINDER :o")
 def dorks():
     try:
         col1 = input("\nDorks > ")
