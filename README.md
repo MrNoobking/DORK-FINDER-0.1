@@ -9,4 +9,5 @@ pip install random
 pip install colorama
 
 
-<hr> python3 dorks.py
+<hr> python3 dorks.py <hr>
+
