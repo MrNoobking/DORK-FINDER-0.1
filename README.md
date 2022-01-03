@@ -11,3 +11,7 @@ pip install colorama
 
 <hr> <strong>python3 dorks.py <hr>
 
+
+```
+site:pastebin.com *dork list*
+```
